@@ -1,0 +1,19 @@
+---
+title: "Welcome to Machine Learning Blogs"
+format: html
+title-slide-style: pandoc
+colortheme: white
+color: black
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: "title5.jpg"
+title-block-banner-color: White
+---
+
+

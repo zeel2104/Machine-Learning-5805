@@ -1,0 +1,13 @@
+/* css styles */
+body {
+    color:white;
+    background-image:url("image77.jpg");
+    
+    background-color: rgb(254, 248, 248);
+    background-size: cover;
+    text-decoration-color: rgb(237, 243, 249);
+    background-repeat: no-repeat;
+   
+    /*background-position: center center;*/
+    /*background-attachment: fixed;*/
+  }
